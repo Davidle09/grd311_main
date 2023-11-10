@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body {
+    background-color: #10111D;
+}
+#page-first {
+    background-image: url(../img/Rectangle%2015.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+#page-second {
+    background-image: url(../img/Rectangle%2016.png);
+    width: 100%;
+    height: 100vh;
+}
+#top-bar {
+    background-image: url(../img/Rectangle%2041.png);
+    width: 100%;
+    height: 10vh;
+}
+#name {
+    color: #31323E;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 21pt;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    width: 831px;
+}
+#about-desc {
+    margin-left: 800px;
+}
+#top-bar ul li {
+    display: inline;
+    color: #FFFFFF;
+    padding-right: 0px;
+    margin-left: 100px;
+}
